@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de projetos! 🚀 Aqui você encontrará uma cole�
 
 🔹 Conteúdo do repositório:
 
-<a href="https://rangelzin.github.io/projeto01/android.html"> Abrir o projeto 001</a>
+<a href="https://rangelzin.github.io/projeto01/android.html" target="_blank"> Abrir o projeto 001</a>
 
 Projetos acadêmicos e pessoais: soluções criativas para problemas do dia a dia.
 
