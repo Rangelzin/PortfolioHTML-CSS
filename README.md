@@ -16,4 +16,4 @@ Objetivos: Demonstrar minha evolução como profissional e estudante e criar um 
 
 📬 Contribuições:
 
-Sugestões, feedback e colaborações são sempre bem-vindos! Entre em contato ou abra uma issue para conversarmos.
+Sugestões, feedback e colaborações são sempre bem-vindos! Entre em contato para conversarmos.
