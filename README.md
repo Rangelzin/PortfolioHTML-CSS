@@ -7,11 +7,13 @@ Bem-vindo ao meu repositório de projetos! 🚀 Aqui você encontrará uma cole�
 <a href="https://rangelzin.github.io/projeto01/android.html"> Abrir o projeto 001</a>
 
 Projetos acadêmicos e pessoais: soluções criativas para problemas do dia a dia.
-Tecnologias: HTML,CSS.
-Finalidade: Explorar, compartilhar conhecimento e construir um portfólio técnico.
-🌟 Objetivos:
 
-Demonstrar minha evolução como profissional e estudante.
-Criar um espaço colaborativo para aprender e trocar ideias.
+Tecnologias: HTML,CSS.
+
+Finalidade: Explorar, compartilhar conhecimento e construir um portfólio técnico.
+
+Objetivos: Demonstrar minha evolução como profissional e estudante e criar um espaço colaborativo para aprender e trocar ideias.
+
 📬 Contribuições:
+
 Sugestões, feedback e colaborações são sempre bem-vindos! Entre em contato ou abra uma issue para conversarmos.
