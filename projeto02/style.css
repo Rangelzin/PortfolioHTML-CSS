@@ -38,6 +38,7 @@ header > p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
     margin: 0px;
+    padding: 20px;
     padding-bottom: 50px;
 }
 
@@ -55,7 +56,7 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    padding: 30px 20px;
+    padding: 30px 30px;
 }
 
 #papel{
@@ -64,7 +65,7 @@ section{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center; 
-    padding: 30px 20px;
+    padding: 30px 30px;
 }
 
 footer{
@@ -98,7 +99,7 @@ footer > p {
 p {
     font-family: var(--fontetexto); 
     padding: 20px;
-    padding-left: 30px;
+    padding-left: 40px;
     margin: 0px;
     line-height: 2em;
  }
