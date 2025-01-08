@@ -4,11 +4,11 @@ Bem-vindo ao meu repositório de projetos! 🚀 Aqui você encontrará uma cole�
 
 🔹 Conteúdo do repositório:
 
-<a href="https://rangelzin.github.io/projeto-android/android.html" target="_blank"> Abrir o projeto Android</a>
+<a href="https://rangelzin.github.io/myPortfolio/projeto-android/android.html" target="_blank"> Abrir o projeto Android</a>
 
-<a href="https://rangelzin.github.io/projeto-cordel/projeto-cordel.html" target="_blank"> Abrir o projeto Cordel</a>
+<a href="https://rangelzin.github.io/myPortfolio/projeto-cordel/projeto-cordel.html" target="_blank"> Abrir o projeto Cordel</a>
 
-<a href="https://rangelzin.github.io/projeto-social/social.html" target="_blank"> Abrir o projeto Social</a>
+<a href="https://rangelzin.github.io/myPortfolio/projeto-social/social.html" target="_blank"> Abrir o projeto Social</a>
 
 Projetos acadêmicos e pessoais: soluções criativas para problemas do dia a dia.
 
