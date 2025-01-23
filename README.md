@@ -1,10 +1,10 @@
-# Meu Repositório 
+# Meu Repositório de HTML
 
-Bem-vindo ao meu repositório de projetos! 🚀 Aqui você encontrará uma coleção diversificada de projetos desenvolvidos com dedicação e foco em aprender e aplicar habilidades em áreas de interesse, como desenvolvimento de software, análise de dados, etc.
+Bem-vindo ao meu repositório de projetos apenas em HTML5 e CSS3! 🚀 Aqui você encontrará uma coleção diversificada de projetos desenvolvidos com dedicação e foco em aprender e aplicar habilidades em áreas de interesse, como desenvolvimento de software, análise de dados, etc.
 
 🔹 Conteúdo do repositório:
 
-<a href="https://rangelzin.github.io/myPortfolio/html-css/README-html" target="_blank"> Abrir os projetos em HTML-CSS</a>
+<a href="https://rangelzin.github.io/PortfolioHTML-CSS/html-css/README-html" target="_blank"> Abrir os projetos em HTML-CSS</a>
 
 Projetos acadêmicos e pessoais: soluções criativas para problemas do dia a dia.
 
