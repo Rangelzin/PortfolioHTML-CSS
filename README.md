@@ -6,7 +6,7 @@ Bem-vindo ao meu repositório de projetos apenas em HTML5 e CSS3! 🚀 Aqui voc�
 
 1. Clone o repositório de projeto em HTML para sua máquina local usando o comando: 
     ```bash
-    git clone https://rangelzin.github.io/PortfolioHTML-CSS/.git
+    git clone https://github.com/Rangelzin/PortfolioHTML-CSS/.git
     ```
 2. Acesse o repositório:
    ```bash
